@@ -10,7 +10,7 @@ function App() {
   const { user } = UseAuthContext();
   return (
     <div className="App">
-      <BrowserRouter basename="codebugged">
+      <BrowserRouter basename="codebugged-assignment">
         <Routes>
           <Route
             path="/"
