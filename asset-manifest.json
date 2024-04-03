@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codebugged-assignment/static/css/main.d04da943.css",
+    "main.js": "/codebugged-assignment/static/js/main.3f06e62e.js",
+    "index.html": "/codebugged-assignment/index.html",
+    "main.d04da943.css.map": "/codebugged-assignment/static/css/main.d04da943.css.map",
+    "main.3f06e62e.js.map": "/codebugged-assignment/static/js/main.3f06e62e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04da943.css",
+    "static/js/main.3f06e62e.js"
+  ]
+}
